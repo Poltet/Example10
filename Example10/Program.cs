@@ -7,6 +7,7 @@ namespace Lab10
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\n");
             Console.WriteLine("МАССИВ ТИПА CelestialBody (базовый) С 20 ОБЪЕКТАМИ РАЗНЫХ КЛАССОВ ИЕРАРХИИ");
             CelestialBody[] array1 = new CelestialBody[20];
             // финура Shape
