@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CelestialBody.cs" />
+    <Compile Include="Class10.cs" />
     <Compile Include="GasGigant.cs" />
     <Compile Include="Planet.cs" />
     <Compile Include="Program.cs" />
